@@ -1,5 +1,5 @@
 # Gazette
-Official repository for Gaze-to-text model aka **Gazette** proposed in "Gaze-to-text Generation: Beyond Categorical Decoding of Human Attention" by Sounak Mondal, Dimitris Samaras, Gregory Zelinsky, Minh Hoai.
+Official repository for **Gaze**-**t**o-**te**xt generative decoding model aka **Gazette** proposed in "Gaze-to-text Generation: Beyond Categorical Decoding of Human Attention" by Sounak Mondal, Dimitris Samaras, Gregory Zelinsky, Minh Hoai.
 
 🎉 Our work has been accepted to **ECCV 2026**!
 
