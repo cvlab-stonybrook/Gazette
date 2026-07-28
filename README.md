@@ -15,9 +15,11 @@ Official repository for **Gaze**-**t**o-**te**xt generative decoding model aka *
 
 Please cite our work as follows:
 
+```
 @InProceedings{mondal2026gazette,
 author = {Mondal, Sounak and Samaras, Dimitris and Zelinsky, Gregory and Hoai, Minh},
 title = {Gaze-to-text Generation: Beyond Categorical Decoding of Human Attention},
 booktitle = {European Conference on Computer Vision (ECCV)},
 year = {2026}
 }
+```
