@@ -12,7 +12,7 @@ Official repository for **Gaze**-**t**o-**te**xt generative decoding model aka *
 # Installation
 
 ```bash
-conda env create -n art --file gazette_env_export.yml
+conda env create -n gazette --file gazette_env_export.yml
 conda activate gazette
 ```
 
