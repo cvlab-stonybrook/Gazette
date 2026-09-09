@@ -44,6 +44,8 @@ To evaluate the model, run:
 
 ```python3 llava/eval/model_vqa.py --question_file=./data/validation/questions/gazette_finetune_test_questions_tp.jsonl --model_path=/path/to/your/checkpoint/```
 
+Optionally run: ```python visual_search_postprocess.py``` to convert the MLLM predictions for COCO-Search18 to the canonical category names. 
+
 # Citation
 
 Please cite our work as follows:
